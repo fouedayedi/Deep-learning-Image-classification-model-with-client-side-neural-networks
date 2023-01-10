@@ -1,4 +1,4 @@
-# deep-learning-Image-classification-model-with-client-side-neural-networks
+# Deep learning Image classification model with client side neural networks
 Model deployment with Tensorflow.js
 
 To implement an image classification model on an e-commerce website.
